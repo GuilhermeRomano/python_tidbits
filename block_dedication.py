@@ -247,7 +247,7 @@ for student in range(len(student_list)):
     summary_sheet.cell(student_rows, 4).number_format = "h:mm"
     summary_sheet.cell(student_rows, 5).style = "Percent"
     summary_sheet.cell(student_rows, 5).number_format = "0.00%"
-
+# sdfsdf
 # Calcular Media e Desvio Padrao
 for activity in range(len(atividade_list)):
     activity_rows = activity + 2
